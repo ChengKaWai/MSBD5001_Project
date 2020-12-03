@@ -11,7 +11,7 @@
 (5) Weekday <br />
   -Range: 0-6, indicate Monday to Sunday, e.g. Monday = 0, Sunday = 6 <br />
 (6) Holiday <br />
-  -Hong Kong Public Holiday <br />
+  -Hong Kong Public Holiday, e.g. Holiday = 1, Others = 0 <br />
 (7) Rainfall <br />
   -Daily Total Rainfall (mm) at the Hong Kong Observatory <br />
 
