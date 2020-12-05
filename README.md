@@ -12,6 +12,9 @@ pip install xgboost <br />
 pip install catboost <br />
 pip install hyperopt <br />
 
+If for macOS, please be reminded to install first: <br />
+brew install libomp<br />
+
 
 
 **Features Selection:** <br />
