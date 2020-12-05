@@ -2,7 +2,17 @@
 
 **Language:** Python <br />
 **File format:** .ipynb <br />
-**Package/Library:** numpy, pandas, datetime, sklearn, xgboost, catboost, hyperopt <br />
+**Package/Library:** numpy, pandas, datetime, holidays, sklearn, xgboost, catboost, hyperopt <br />
+pip install holidays <br />
+pip install numpy <br />
+pip install pandas <br />
+pip install datetime <br />
+pip install sklearn <br />
+pip install xgboost <br />
+pip install catboost <br />
+pip install hyperopt <br />
+
+
 
 **Features Selection:** <br />
 (1) Year <br />
